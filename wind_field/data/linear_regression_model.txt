@@ -1,0 +1,16 @@
+Linear Regression Model Parameters
+==================================================
+
+Training time: 0.63 seconds
+Number of intercept terms: 3
+Number of coefficient sets: 3
+
+Intercept terms:
+  Output 1: 0.6716366462
+  Output 2: -1.9011067640
+  Output 3: -0.0756288911
+
+Coefficients:
+  Output 1: -6.2997128577, 3.9288200604, 2.8862009778
+  Output 2: 1.9512215598, -2.2031171805, 0.7034114896
+  Output 3: 0.0539283413, -0.0393302501, 0.0041534182
